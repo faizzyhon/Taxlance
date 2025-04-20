@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # **TaxLance** - Freelance Billing & Tax Automation Platform
 
@@ -181,3 +182,7 @@ If you have any questions or feedback, feel free to open an issue or contact me 
 ---
 
 **Happy Coding!** 🚀
+=======
+# Taxlance
+Freelance Billing &amp; Tax Automation for Pakistani Freelancers
+>>>>>>> df9ce46e0d54e5ee22d6a3c3d360a5c1901b84d8
