@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # **TaxLance** - Freelance Billing & Tax Automation Platform
 
@@ -155,8 +155,8 @@ Visit `http://localhost:3000` to view the app locally.
 ### **Contributors**
 
 - **Muhammad Faizan** - Project Creator & Lead Developer  
-  - **GitHub:** [faizanai](https://github.com/faizanai)
-  - **Upwork:** [faizanai](https://www.upwork.com/freelancers/~0163a2998ed9fdf65e)
+  - **GitHub:** [faizzyhon](https://github.com/faizzyhon)
+  - **Upwork:** [faizanai](https://www.upwork.com/freelancers/~0193d3d868ae44047a?companyReference=1617126771427340289&mp_source=share)
   - **Instagram:** [@faizzyhon](https://www.instagram.com/faizzyhon)
 
 ---
